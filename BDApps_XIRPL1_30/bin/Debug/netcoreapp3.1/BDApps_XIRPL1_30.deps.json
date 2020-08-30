@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BDApps_XIRPL1_30/1.0.0": {
+        "runtime": {
+          "BDApps_XIRPL1_30.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BDApps_XIRPL1_30/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
